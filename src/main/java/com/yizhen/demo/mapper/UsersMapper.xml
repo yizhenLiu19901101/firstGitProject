@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE mapper PUBLIC 
+    "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.yizhen.demo.dao.UsersDao">
+    <!-- 查询一条记录 -->
+    <select id="selectUser"  parameterType="String" resultMap="UserMap">
+        <![CDATA[
+            select id,employee_name,gender from employee
+        ]]>
+    </select>
+    
+    <!-- 查询所有记录 -->
+    <select id="queryUser" resultType="User">
+        <![CDATA[
+            select id,employee_name 'employeeName',gender from tb_employee 
+        ]]>
+    </select>
+    
+    <!-- 更新一条记录 -->
+    <update id="updateOneUser"  parameterType="User">
+        <![CDATA[
+            update tb_employee set employee_name = #{employee_name},gender=#{gender} where id=#{id}
+        ]]>
+    </update>
+    
+    <!-- 新增一条记录 -->
+    <insert id="addOneUser"  parameterType="User" useGeneratedKeys="true" keyProperty="id">
+        <![CDATA[
+            insert into tb_employee(id,gender,employee_name) values(#{id},#{gender},#{employee_name})
+        ]]>
+    </insert>
+    
+    <!-- 删除一条记录 -->
+    <delete id="deleteOneUser"  parameterType="String">
+      <![CDATA[
+            delete from tb_employee  where id=#{id}
+        ]]>
+    </delete>
+    
+    <select id="getUserCount" parameterMap="getUserCountMap" statementType="CALLABLE" resultMap="UserMap">
+		<![CDATA[
+		    {call showInfo (#{employeeId,mode=IN,jdbcType=INTEGER})}
+		]]>
+    </select>
+    
+    <parameterMap type="java.util.Map" id="getUserCountMap">
+         <parameter property="employeeId" mode="IN" jdbcType="INTEGER"/>
+     </parameterMap>
+
+    <!-- 结果映射 -->
+    <resultMap id="UserMap" type="User">
+       <id property="id" column="id" />
+       <result property="employeeName" column="employee_name"/>
+       <result property="gender" column="gender"/>
+    </resultMap>
+</mapper>

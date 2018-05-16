@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.2.xsd">
+    <!-- 加载属性文件 -->
+    <context:property-placeholder location="classpath:jdbc.properties"/>
+    <!-- 扫描包 -->
+	<context:component-scan base-package="com.yizhen.demo"></context:component-scan>
+	<!-- 数据源 -->
+	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close"> 
+	   <property name="driverClass" value="${jdbc.driver_class}" /> 
+	   <property name="jdbcUrl" value="${jdbc.connection1.url}" /> 
+	   <property name="user" value="${jdbc.connection1.username}" /> 
+	   <property name="password" value="${jdbc.connection1.password}" /> 
+	</bean>
+	<!-- 数据源 -->
+	<bean id="dataSource2" class="com.mchange.v2.c3p0.ComboPooledDataSource" destroy-method="close"> 
+	   <property name="driverClass" value="${jdbc.driver_class}" /> 
+	   <property name="jdbcUrl" value="${jdbc.connection2.url}" /> 
+	   <property name="user" value="${jdbc.connection2.username}" /> 
+	   <property name="password" value="${jdbc.connection2.password}" /> 
+	</bean>	
+	
+	<bean id="dynamicDataSource" class="com.yizhen.demo.dao.DynamicDataSource" >  
+        <property name="targetDataSources">  
+            <map key-type="java.lang.String">  
+                <entry value-ref="dataSource" key="dataSource"></entry>  
+                <entry value-ref="dataSource2" key="dataSource2"></entry>  
+            </map>  
+        </property>  
+        <property name="defaultTargetDataSource" ref="dataSource" >  
+        </property>  
+    </bean>
+	
+	<!-- 会话工厂 --> 
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean"> 
+	   <!-- 数据源 -->
+	   <property name="dataSource" ref="dynamicDataSource" />
+	   <!-- 配置文件地址 -->
+	   <property name="configLocation" value="classpath:mybatis-config.xml"></property> 
+	   <!-- 映射文件地址 -->
+	   <property name="mapperLocations" value="classpath:com/yizhen/demo/mapper/*.xml"/>
+	</bean> 
+	<!-- 会话模板 -->
+	<bean id="sqlSessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
+	    <constructor-arg index = "0" ref = "sqlSessionFactory"></constructor-arg>
+	</bean>
+	
+	<!-- 数据源管理器 -->
+	<bean id="dataSourceTransactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	    <property name="dataSource" ref="dynamicDataSource"></property>
+	</bean>
+	
+	<tx:advice id="txAdvice" transaction-manager="dataSourceTransactionManager">
+	    <tx:attributes>
+	        <tx:method name="query*" read-only="true"/>
+	        <tx:method name="select*" read-only="true"/>
+	    </tx:attributes>
+	</tx:advice>
+	
+	<bean id="demoLoggingAspect" class="com.yizhen.demo.aspect.DemoLoggingAspect"></bean>
+
+   <!-- 切面类覆盖 -->
+   <aop:config>
+        <!-- 配置切点表达式 -->
+        <aop:pointcut expression="execution(* com.yizhen.demo.dao.*.*(..))" id="pointCut"/>
+        <!-- 配置切面及通知 -->
+        <aop:aspect ref="demoLoggingAspect" order="1">
+            <aop:before method="demoBefore" pointcut-ref="pointCut" arg-names=""/>
+        </aop:aspect>
+    </aop:config>
+    
+    <!-- 事务覆盖 -->
+    <aop:config>
+        <aop:pointcut expression="execution(* com.yizhen.demo.dao.*.*(..))" id="pointCut"/>
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="pointCut" />
+    </aop:config>	
+    
+     <!-- 引入redis整合文件 -->
+     <import resource="applicationContext-redis.xml"/>   
+     <!-- 引入mongoDb整合文件 -->
+     <import resource="applicationContext-mongo.xml"/> 
+</beans>
