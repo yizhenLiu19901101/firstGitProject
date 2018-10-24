@@ -13,12 +13,11 @@ import org.springframework.cglib.proxy.MethodProxy;
  *
  */
 public class CglibProxy implements MethodInterceptor{  
-    private Enhancer enhancer = new Enhancer();  
-	@SuppressWarnings("rawtypes")
+    private Enhancer enhancer = new Enhancer();
 	public Object getProxy(Class clazz){  
 		//设置需要创建子类的类  
 		enhancer.setSuperclass(clazz);  
-		enhancer.setCallback((Callback) this);  
+		enhancer.setCallback(this);  
 		//通过字节码技术动态创建子类实例  
 		return enhancer.create();  
 	}  

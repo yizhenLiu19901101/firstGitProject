@@ -8,8 +8,6 @@ import java.lang.reflect.Field;
  *
  */
 public class ReflectionDemo8 {
-    @SuppressWarnings("unused")
-	private String proprety = null;
     public static void main(String[] args) throws Exception {
         Class<?> clazz = Class.forName("com.yizhen.demo.reflection.ReflectionDemo8");
         Object obj = clazz.newInstance();

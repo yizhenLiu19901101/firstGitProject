@@ -4,14 +4,20 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * 长于生成类文件
- * @author Administrator
+ * JDK动态代理（长于生成类文件）
+ * @author milo
  *
  */
 public class DynamicsAnimalProxy implements InvocationHandler {
+	/**
+	 * 用于接收具体实现类的实例对象
+	 */
+	private Object object;
 
-	private Object object;//用于接收具体实现类的实例对象
-	//使用带参数的构造器来传递具体实现类的对象
+	/**
+	 * 带参数构造器
+	 * @param object
+	 */
 	public DynamicsAnimalProxy(Object object) {
 		super();
 		this.object = object;

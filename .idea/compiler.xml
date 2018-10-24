@@ -9,8 +9,5 @@
         <module name="firstGitPorject" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="firstGitPorject" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

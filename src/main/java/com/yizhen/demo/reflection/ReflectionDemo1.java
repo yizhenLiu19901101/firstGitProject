@@ -13,13 +13,12 @@ public class ReflectionDemo1 {
 	public static void main(String[] args) throws Exception {
 	    ReflectionDemo1 testReflect = new ReflectionDemo1();
         System.out.println(testReflect.getClass().getName());
-        //结果 com.yizhen.demo.reflection.ReflectionDemo1
         System.out.println("----------------------------");
         ReflectionDemo1 testReflect2 = ReflectionDemo1.class.newInstance();
         testReflect2.doThings("lily");
         System.out.println("----------------------------");
         Class<?> testReflect3 = Class.forName("com.yizhen.demo.reflection.ReflectionDemo1");
-        Method method = testReflect3.getMethod("doThings", String.class);
+        Method method = testReflect3.getMethod("doThings",String.class);
         method.invoke(testReflect3.newInstance(),"jack");
         Class<?>[] types = method.getParameterTypes();
         for(Class<?> type:types) {
@@ -30,6 +29,6 @@ public class ReflectionDemo1 {
 	}
 	
 	public void doThings(String who) {
-		System.out.println("do things ......");
+	    System.out.println("do things ......");
 	}
 }
