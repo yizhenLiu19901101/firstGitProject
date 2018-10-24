@@ -2,172 +2,170 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="949d3b8e-3c7a-48aa-9f92-09b0f5f15b51" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alipay_sdk_alipay_sdk_java_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_annotation_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jdom_jdom_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_spy_spymemcached_2_10_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_6_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_10_0_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_htrace_htrace_core_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom2_2_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_13_0_rc0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_ehcache_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_6_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_10_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_7_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_cross_store_1_7_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_log4j_1_7_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_1_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/ConcreteBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/SendMailFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/SendSMSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/multiMethodFactory/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/multiMethodFactory/SendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/SendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/staticMultiMethodFactory/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/staticMultiMethodFactory/SendFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/hungery/ThirdSingletonObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FifthSingletonObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FirstSingletonObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstGitPorject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ssm.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ssm.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/DoCgLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/DoCgLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/SayHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/SayHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/AnimalImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/AnimalImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionIntroduce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionIntroduce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/Provider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/SendMailFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/SendSMSFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/抽象工厂模式.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/抽象工厂模式.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/adapterClass/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/adapter/adapterClass/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/adapterClass/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/adapter/adapterClass/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/adapterClass/AdapterClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/adapter/adapterClass/AdapterClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/adapterClass/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/adapter/adapterClass/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/adapterObject/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/adapter/adapterObject/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/adapterObject/AdapterObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/adapter/adapterObject/AdapterObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/blackIterator/ConcreateIteratorAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/blackIterator/ConcreateIteratorAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/blackIterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/blackIterator/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/blackIterator/IteratorAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/blackIterator/IteratorAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/blackIterator/IteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/blackIterator/IteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/AbstractCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/AbstractCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/AbstractRoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/AbstractRoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/BridgeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/BridgeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/SpeedWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/SpeedWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/bridge/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/bridge/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/BuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/BuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/ConcreteBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/CommandChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/CommandChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/CommandI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/CommandI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/CommandOff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/CommandOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/CommandOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/CommandOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/CommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/CommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/command/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/Tv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/component/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/component/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/component/ComponentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/component/ComponentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/component/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/component/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/component/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/component/Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/decorator/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/decorator/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/decorator/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/decorator/Change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/decorator/DecoratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/decorator/DecoratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/decorator/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/decorator/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/decorator/Monkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/decorator/Monkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/decorator/TheGreatestSage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/decorator/TheGreatestSage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/designPrinceple" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/designPrinceple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/duty/AbstractCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/duty/AbstractCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/duty/ChainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/duty/ChainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/duty/DeptHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/duty/DeptHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/duty/GeneralHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/duty/GeneralHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/duty/ProjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/duty/ProjectHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/facade/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/facade/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/facade/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/facade/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/facade/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/facade/Disk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/facade/FacadeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/facade/FacadeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/facade/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/facade/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/And.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/And.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/InterpreterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/InterpreterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/Not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/Not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/Or.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/Or.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/interpreter/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/interpreter/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/mediate/Colleague.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/mediate/Colleague.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/mediate/ColleagueA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/mediate/ColleagueA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/mediate/ColleagueB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/mediate/ColleagueB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/mediate/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/mediate/ConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/mediate/MediateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/mediate/MediateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/mediate/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/mediate/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiMethodFactory/FactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiMethodFactory/SendFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiMethodFactory/多个工厂方法模式.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/multiMethodFactory/多个工厂方法模式.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiShareMeta/ConcreteCompositeFlyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/multiShareMeta/ConcreteCompositeFlyWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiShareMeta/ConcreteFlyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/multiShareMeta/ConcreteFlyWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiShareMeta/FlyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/pureShareMeta/FlyWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiShareMeta/FlyWeightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/multiShareMeta/FlyWeightFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiShareMeta/ShareMetaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/multiShareMeta/ShareMetaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/note/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/note/ClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/note/GameRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/note/GameRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/note/RoleStateMange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/note/RoleStateMange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/note/RoleStateMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/note/RoleStateMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/observer/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/observer/ConcreteObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/observer/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/observer/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/observer/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/observer/ObserverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/FactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/MailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/MailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/SendFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/Sender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/SmsSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/SmsSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/简单工厂.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/简单工厂.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/prototype/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/PrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/prototype/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/prototype/ShapeObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/ShapeObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/pureShareMeta/ConcreteFlyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/pureShareMeta/ConcreteFlyWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/pureShareMeta/FlyWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/multiShareMeta/FlyWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/pureShareMeta/FlyWeightFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/pureShareMeta/FlyWeightFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/pureShareMeta/ShareMetaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/share/pureShareMeta/ShareMetaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/singleton/FifthSingletonObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/singleton/FirstSingletonObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/singleton/FourthSingletonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FourthSingletonObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/singleton/SecondSingletonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/SecondSingletonObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/singleton/ThirdSingletonObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/staticMultiMethodFactory/FactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/staticMultiMethodFactory/SendFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/staticMultiMethodFactory/多个工厂方法模式.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/staticMultiMethodFactory/多个工厂方法模式.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/status/ConcreteStateA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/status/ConcreteStateA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/status/ConcreteStateB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/status/ConcreteStateB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/status/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/status/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/status/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/status/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/status/StatusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/status/StatusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/strategy/AdvancedMemberStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/strategy/AdvancedMemberStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/strategy/InterMediateStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/strategy/InterMediateStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/strategy/MemberStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/strategy/MemberStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/strategy/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/strategy/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/strategy/PrimaryStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/strategy/PrimaryStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/strategy/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/strategy/StrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/template/AbstractPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/template/AbstractPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/template/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/template/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/template/TemplateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/template/TemplateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/ConcreteElementA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/ConcreteElementA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/ConcreteElementB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/ConcreteElementB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/IVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/IVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/ObjectStructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/ObjectStructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/visitor/VisitorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/VisitorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/whiteIterator/ConcreateIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/whiteIterator/ConcreateIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/whiteIterator/ConcreateIteratorAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/whiteIterator/ConcreateIteratorAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/whiteIterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/whiteIterator/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/whiteIterator/IteratorAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/whiteIterator/IteratorAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/whiteIterator/IteratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/iterator/whiteIterator/IteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/cglib/CglibProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/DoCgLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/cglib/DoCgLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/SayHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/cglib/SayHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/dynamics/DynamicsAnimalProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/dynamics/DynamicsAnimalProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/entity/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/AnimalImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/entity/AnimalImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/entity/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/statics/StaticsAnimalProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/statics/StaticsAnimalProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/traditionDesignPattern/designPrinceple" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yizhen/demo/traditionDesignPattern/designPrinceple" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -178,97 +176,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DynamicsAnimalProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxy.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ShapeObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/ShapeObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="128">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicsAnimalProxyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxyTest.java">
+      <file leaf-file-name="PrototypeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/PrototypeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CglibProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoCgLib.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/DoCgLib.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectionDemo1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="240">
+              <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding>
-                <element signature="e#1153#1154#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectionIntroduce.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionIntroduce.txt">
+      <file leaf-file-name="FifthSingletonObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FifthSingletonObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="446">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectionDemo8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo8.java">
+      <file leaf-file-name="FirstSingletonObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FirstSingletonObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="266">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SayHello.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/SayHello.java">
+      <file leaf-file-name="SecondSingletonObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/SecondSingletonObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticsAnimalProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxy.java">
+      <file leaf-file-name="ThirdSingletonObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/hungery/ThirdSingletonObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StaticsAnimalProxyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxyTest.java">
+      <file leaf-file-name="SingletonTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/SingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+            <state relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -279,6 +288,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -297,7 +307,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/SayHello.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/DoCgLib.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Animal.java" />
@@ -307,11 +316,48 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Dog.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/pay/WeChatPay.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionIntroduce.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo8.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/Sender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/MailSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/SmsSender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/SendFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/MessageType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/plainFactory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/Provider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/SendSMSFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiMethodFactory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/multiMethodFactory/SendFactory.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/Builder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/ConcreteBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/Director.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/builder/BuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/abstractFactory/SendMailFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/staticMultiMethodFactory/SendFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/staticMultiMethodFactory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createObject/staticMultiMethodFactory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/staticMultiMethodFactory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/traditionDesignPattern/designPrinceple" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/ShapeObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/PrototypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/FifthSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/FirstSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/FourthSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/SecondSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/ThirdSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FifthSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FourthSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/hungery/ThirdSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FirstSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/SecondSingletonObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/SingletonTest.java" />
       </list>
     </option>
   </component>
@@ -347,7 +393,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -357,9 +403,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -370,11 +413,6 @@
             <path>
               <item name="firstGitPorject" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstGitProject" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="firstGitPorject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="firstGitProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -405,12 +443,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="reflection" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstGitPorject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstGitProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="traditionDesignPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -422,6 +472,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -435,14 +490,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DynamicsAnimalProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yizhen.demo.proxy.dynamics.DynamicsAnimalProxyTest" />
+  <component name="RunManager" selected="Application.PrototypeTest">
+    <configuration name="BuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yizhen.demo.designPattern.builder.BuilderTest" />
       <module name="firstGitPorject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yizhen.demo.proxy.dynamics.*" />
+          <option name="PATTERN" value="com.yizhen.demo.designPattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DynamicsAnimalProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yizhen.demo.designPattern.structorType.proxy.dynamics.DynamicsAnimalProxyTest" />
+      <module name="firstGitPorject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yizhen.demo.designPattern.structorType.proxy.dynamics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yizhen.demo.designPattern.createType.factory.plainFactory.FactoryTest" />
+      <module name="firstGitPorject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yizhen.demo.designPattern.createType.factory.plainFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PrototypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yizhen.demo.designPattern.createType.prototype.PrototypeTest" />
+      <module name="firstGitPorject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yizhen.demo.designPattern.createType.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yizhen.demo.designPattern.createType.singleton.SingletonTest" />
+      <module name="firstGitPorject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yizhen.demo.designPattern.createType.singleton.lazy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -488,8 +587,19 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.DynamicsAnimalProxyTest" />
+      <item itemvalue="Application.FactoryTest" />
+      <item itemvalue="Application.BuilderTest" />
+      <item itemvalue="Application.PrototypeTest" />
+      <item itemvalue="Application.SingletonTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrototypeTest" />
+        <item itemvalue="Application.SingletonTest" />
+        <item itemvalue="Application.BuilderTest" />
+        <item itemvalue="Application.FactoryTest" />
         <item itemvalue="Application.DynamicsAnimalProxyTest" />
       </list>
     </recent_temporary>
@@ -504,47 +614,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540361874120</updated>
-      <workItem from="1540361875705" duration="3856000" />
+      <workItem from="1540361875705" duration="9506000" />
+      <workItem from="1540371883885" duration="3210000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;提高可读性&quot;">
+      <created>1540366225164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540366225164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3856000" />
+    <option name="totallyTimeSpent" value="12716000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32948717" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.07367668" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32948717" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.07367668" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32948717" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +671,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;提高可读性&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;提高可读性&quot;" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/ShapeObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/repository/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/cglib/core/AbstractClassGenerator.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -568,14 +697,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/entity/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/AnimalImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/entity/AnimalImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
@@ -586,7 +715,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/entity/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/entity/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -601,9 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,59 +740,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/statics/StaticsAnimalProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/statics/StaticsAnimalProxyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/statics/StaticsAnimalProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/dynamics/DynamicsAnimalProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/dynamics/DynamicsAnimalProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/dynamics/DynamicsAnimalProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
           <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/SayHello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/cglib/SayHello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/CglibProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/proxy/cglib/DoCgLib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -686,11 +791,334 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/reflection/ReflectionDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="328">
           <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/cglib/DoCgLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/structorType/proxy/cglib/CglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/MailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/SmsSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/plainFactory/SendFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/SendSMSFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/multiMethodFactory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/multiMethodFactory/SendFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/BuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/ConcreteBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/abstractFactory/SendMailFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/staticMultiMethodFactory/SendFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/traditionDesignPattern/designPrinceple">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/visitor/VisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/designPrinceple">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/factory/staticMultiMethodFactory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/builder/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/behavierType/command/CommandChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/ShapeObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/prototype/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/SecondSingletonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FifthSingletonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FirstSingletonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/lazy/FourthSingletonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/hungery/ThirdSingletonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yizhen/demo/designPattern/createType/singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

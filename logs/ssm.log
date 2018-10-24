@@ -1,0 +1,21 @@
+[INFO] [2018-10-24 16:20:36][BuilderTest]编号：9527
+[INFO] [2018-10-24 16:20:36][BuilderTest]名称：XXX
+[INFO] [2018-10-24 16:27:01][BuilderTest]编号：9527
+[INFO] [2018-10-24 16:27:01][BuilderTest]名称：螺丝刀
+[INFO] [2018-10-24 17:12:53][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:12:53][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:12:53][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和rectangle2是否是同一个对象？false
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和cloneCp是否是同一个对象？false
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和cloneCp是否是同一个对象？false
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和cloneCp是否是同一个对象？false
+[INFO] [2018-10-24 17:18:23][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:22:33][com.yizhen.demo.designPattern.createType.singleton.SingletonTest]object和object2是不是同一个对象？true
+[INFO] [2018-10-24 17:26:40][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和cloneCp0是否是同一个对象？false 红色的
+[INFO] [2018-10-24 17:26:40][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:26:40][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和cloneCp1是否是同一个对象？false 红色的
+[INFO] [2018-10-24 17:26:40][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
+[INFO] [2018-10-24 17:26:40][com.yizhen.demo.designPattern.createType.prototype.PrototypeTest]rectangle和cloneCp2是否是同一个对象？false 红色的
+[INFO] [2018-10-24 17:26:40][com.yizhen.demo.designPattern.createType.prototype.Rectangle]Inside Rectangle::draw() method.
